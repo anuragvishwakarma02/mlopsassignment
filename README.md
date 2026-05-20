@@ -1,5 +1,6 @@
 # RoBERTa Goodreads Genre Classifier
 
+#Roll No # G25AIT2017
 MLOps | PGD AI Program | IIT Jodhpur - Assignment 2
 
 This project fine-tunes a RoBERTa model on Goodreads book reviews from the UCSD Book Graph dataset to classify reviews into 8 genres. Experiment runs are tracked with Weights and Biases and the final trained model is uploaded to Hugging Face Hub.
