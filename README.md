@@ -83,7 +83,7 @@ Results for roberta
         comics_graphic       0.83      0.81      0.82       200
     fantasy_paranormal       0.39      0.40      0.40       200
      history_biography       0.59      0.60      0.60       200
-mystery_thriller_crime       0.55      0.58      0.57       200
+     mystery_thriller_crime  0.55      0.58      0.57       200
                 poetry       0.87      0.74      0.80       200
                romance       0.58      0.63      0.60       200
            young_adult       0.44      0.41      0.42       200
