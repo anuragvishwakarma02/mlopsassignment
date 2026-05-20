@@ -100,15 +100,15 @@ Overall accuracy: DistilBERT got 54.0% and Roberta got 61.4%. That is a 7.4 perc
 
 Per-genre F1 scores:
 
-Genre                   DistilBERT F1    Roberta F1    
-children                0.665            0.711         
-comics and graphic      0.647            0.818         
-fantasy and paranormal  0.399            0.397         
-history and biography   0.559            0.599         
-mystery thriller crime  0.495            0.567         
-poetry                  0.691            0.801         
-romance                 0.512            0.603         
-young adult             0.330            0.425         
+    Genre                   DistilBERT F1    Roberta F1    
+    children                0.665            0.711         
+    comics and graphic      0.647            0.818         
+    fantasy and paranormal  0.399            0.397         
+    history and biography   0.559            0.599         
+    mystery thriller crime  0.495            0.567         
+    poetry                  0.691            0.801         
+    romance                 0.512            0.603         
+    young adult             0.330            0.425         
 
 Macro average F1: DistilBERT 0.537, Roberta 0.615
 
