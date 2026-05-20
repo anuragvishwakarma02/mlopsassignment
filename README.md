@@ -121,3 +121,13 @@ Dashboard: https://wandb.ai/g25ait2017-prom-iit-rajasthan/mlops-assignment2
 
 The Trainer logs train loss, eval loss, accuracy, F1, precision, and recall automatically at each epoch.
 After evaluation, final metrics are logged separately under the final/ prefix. A JSON classification report is also saved and uploaded as a versioned W&B Artifact called eval-report.
+
+
+
+<img width="2056" height="1290" alt="image" src="https://github.com/user-attachments/assets/6ddbec02-74e7-4559-bbf5-019bfaaec02a" />
+
+<img width="2056" height="1290" alt="image" src="https://github.com/user-attachments/assets/f71153f2-0f39-4bab-8b09-705e4c2c69c4" />
+
+<img width="2056" height="1290" alt="image" src="https://github.com/user-attachments/assets/aa766351-f1c2-495c-a919-555f2bcb0850" />
+
+
