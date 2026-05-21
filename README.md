@@ -1,6 +1,6 @@
 # RoBERTa Goodreads Genre Classifier
 
-# Roll No -> G25AIT2017
+# Roll No - G25AIT2017
 MLOps | PGD AI Program | IIT Jodhpur - Assignment 2
 
 This project fine-tunes a RoBERTa model on Goodreads book reviews from the UCSD Book Graph dataset to classify reviews into 8 genres. Experiment runs are tracked with Weights and Biases and the final trained model is uploaded to Hugging Face Hub.
@@ -117,7 +117,7 @@ Roberta improved on every genre except fantasy and paranormal where both models 
 
 
 ## W&B Experiment Tracking
-
+Report link <iframe src="https://wandb.ai/g25ait2017-prom-iit-rajasthan/mlops-assignment2/reports/Untitled-Report--VmlldzoxNjk1ODY5MA" style="border:none;height:1024px;width:100%">
 Dashboard: https://wandb.ai/g25ait2017-prom-iit-rajasthan/mlops-assignment2
 
 The Trainer logs train loss, eval loss, accuracy, F1, precision, and recall automatically at each epoch.
