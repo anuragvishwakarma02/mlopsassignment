@@ -119,7 +119,7 @@ Roberta improved on every genre except fantasy and paranormal where both models 
 ## W&B Experiment Tracking
 Report link https://api.wandb.ai/links/g25ait2017-prom-iit-rajasthan/20at8lr8
 
-Dashboard: https://wandb.ai/g25ait2017-prom-iit-rajasthan/mlops-assignment2
+<s> Dashboard: https://wandb.ai/g25ait2017-prom-iit-rajasthan/mlops-assignment2 </s>
 
 
 The Trainer logs train loss, eval loss, accuracy, F1, precision, and recall automatically at each epoch.
