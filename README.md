@@ -118,7 +118,9 @@ Roberta improved on every genre except fantasy and paranormal where both models 
 
 ## W&B Experiment Tracking
 Report link <iframe src="https://wandb.ai/g25ait2017-prom-iit-rajasthan/mlops-assignment2/reports/Untitled-Report--VmlldzoxNjk1ODY5MA" style="border:none;height:1024px;width:100%">
+
 Dashboard: https://wandb.ai/g25ait2017-prom-iit-rajasthan/mlops-assignment2
+
 
 The Trainer logs train loss, eval loss, accuracy, F1, precision, and recall automatically at each epoch.
 After evaluation, final metrics are logged separately under the final/ prefix. A JSON classification report is also saved and uploaded as a versioned W&B Artifact called eval-report.
