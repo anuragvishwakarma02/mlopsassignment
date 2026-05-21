@@ -117,7 +117,7 @@ Roberta improved on every genre except fantasy and paranormal where both models 
 
 
 ## W&B Experiment Tracking
-Report link <iframe src="https://wandb.ai/g25ait2017-prom-iit-rajasthan/mlops-assignment2/reports/Untitled-Report--VmlldzoxNjk1ODY5MA" style="border:none;height:1024px;width:100%">
+Report link https://api.wandb.ai/links/g25ait2017-prom-iit-rajasthan/20at8lr8
 
 Dashboard: https://wandb.ai/g25ait2017-prom-iit-rajasthan/mlops-assignment2
 
