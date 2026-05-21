@@ -115,6 +115,8 @@ Macro average F1: DistilBERT 0.537, Roberta 0.615
 
 Roberta improved on every genre except fantasy and paranormal where both models essentially tied around 0.40. The biggest gains were in comics and graphic (+0.171) and poetry (+0.110). Both models struggled most with young adult and fantasy, likely because those genres have a lot of overlap with romance and general fiction in the way reviewers write about them.
 
+## Kaggle Link
+https://www.kaggle.com/code/anuragg25ait2017/g25ait2017-classifying-goodreads
 
 ## W&B Experiment Tracking
 Report link https://api.wandb.ai/links/g25ait2017-prom-iit-rajasthan/20at8lr8
